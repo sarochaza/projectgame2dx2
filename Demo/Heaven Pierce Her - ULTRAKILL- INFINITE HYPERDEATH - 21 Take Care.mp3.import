@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b1bc3ftsl48f5"
+path="res://.godot/imported/Heaven Pierce Her - ULTRAKILL- INFINITE HYPERDEATH - 21 Take Care.mp3-605210a3cc92d7bd4d921b9092b2f1bd.mp3str"
+
+[deps]
+
+source_file="res://Heaven Pierce Her - ULTRAKILL- INFINITE HYPERDEATH - 21 Take Care.mp3"
+dest_files=["res://.godot/imported/Heaven Pierce Her - ULTRAKILL- INFINITE HYPERDEATH - 21 Take Care.mp3-605210a3cc92d7bd4d921b9092b2f1bd.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

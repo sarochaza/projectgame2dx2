@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cn7f3bqxbnwxd"
+path="res://.godot/imported/1.10 Studiopolis Zone Act 1.mp3-d6f1e5b7fff8eda197a0aeed81e84b7d.mp3str"
+
+[deps]
+
+source_file="res://1.10 Studiopolis Zone Act 1.mp3"
+dest_files=["res://.godot/imported/1.10 Studiopolis Zone Act 1.mp3-d6f1e5b7fff8eda197a0aeed81e84b7d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
